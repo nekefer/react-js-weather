@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-js-weather.git/static/css/main.88f512ea.css",
-    "main.js": "/react-js-weather.git/static/js/main.0e5823ef.js",
-    "static/media/background.jpg": "/react-js-weather.git/static/media/background.7915e6a91f0022b39024.jpg",
-    "index.html": "/react-js-weather.git/index.html",
-    "main.88f512ea.css.map": "/react-js-weather.git/static/css/main.88f512ea.css.map",
-    "main.0e5823ef.js.map": "/react-js-weather.git/static/js/main.0e5823ef.js.map"
+    "main.css": "/react-js-weather/static/css/main.a8ba0913.css",
+    "main.js": "/react-js-weather/static/js/main.0e5823ef.js",
+    "static/media/background.jpg": "/react-js-weather/static/media/background.7915e6a91f0022b39024.jpg",
+    "index.html": "/react-js-weather/index.html",
+    "main.a8ba0913.css.map": "/react-js-weather/static/css/main.a8ba0913.css.map",
+    "main.0e5823ef.js.map": "/react-js-weather/static/js/main.0e5823ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f512ea.css",
+    "static/css/main.a8ba0913.css",
     "static/js/main.0e5823ef.js"
   ]
 }
